@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Agriculture! You could analyze how climate change is affecting crops and what to do about it.
