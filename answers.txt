@@ -9,3 +9,7 @@ Answer: Agriculture! You could analyze how climate change is affecting crops and
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging changes the files to match the merged branch, rebasing matches the changes you made on the rebased branch and does them to the main branch
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm genuinely really looking forward to finally working with SQL
