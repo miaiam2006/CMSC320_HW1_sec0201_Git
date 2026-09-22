@@ -5,3 +5,7 @@ Answer: To make sure we can go back to older versions
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Agriculture! You could analyze how climate change is affecting crops and what to do about it.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging changes the files to match the merged branch, rebasing matches the changes you made on the rebased branch and does them to the main branch
